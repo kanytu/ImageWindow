@@ -33,4 +33,4 @@ Set a delete callback for when you click on the close button
 
 **RESULT**
 
-![ImageWindow](https://raw.githubusercontent.com/kanytu/ImageWindow/master/master/screenshots/device-2015-02-20-162825.png)
+![ImageWindow](https://raw.githubusercontent.com/kanytu/ImageWindow/master/screenshots/device-2015-02-20-162825.png)
