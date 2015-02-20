@@ -1,6 +1,7 @@
 # ImageWindow
 An image with a close button like Google Messenger attachments.
 
+Explained in this blog : http://androidshenanigans.blogspot.pt/2015/02/imagewindow-image-view-like-google.html
 
 **Usage**
 
