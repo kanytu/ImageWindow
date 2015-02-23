@@ -3,6 +3,28 @@ An image with a close button like Google Messenger attachments.
 
 Explained in this blog : http://androidshenanigans.blogspot.pt/2015/02/imagewindow-image-view-like-google.html
 
+
+
+**Integration**
+====
+
+**Step 1.** Add the JitPack repository to your build file
+
+   	repositories {
+   	    maven {
+   	        url "https://jitpack.io"
+   	    }
+   	}
+   	
+**Step 2.** Add the dependency
+
+    dependencies {
+    	        compile 'com.github.kanytu:ImageWindow:v1.0'
+    }
+
+
+
+
 **Usage**
 
  Add ImageWindow to your xml:
