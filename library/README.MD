@@ -11,6 +11,15 @@ An image with a close button like Google Messenger attachments.
          android:layout_height="wrap_content"
          android:id="@+id/myImageView"/>
 
+XML attributes:
+
+    app:close_color - color of the close button (default = 0xffff7b57)
+    app:close_margin - margin for the close button (default = 5dp)
+    app:close_size - size of the close button (default = 32dp)
+    app:corner_radius - corner radius for the ImageView (default = 7dp)
+    app:image_margin - top and left margin of the ImageView (default = 10dp)
+    app:close_icon - close drawable (default = ic_action_close)
+
 Set an image to it on your activity:
 
     ImageWindow myImageWindow = (ImageWindow) findViewById(R.id.myImageView);
@@ -34,3 +43,5 @@ Set a delete callback for when you click on the close button
 **RESULT**
 
 ![ImageWindow](https://raw.githubusercontent.com/kanytu/ImageWindow/master/master/screenshots/device-2015-02-20-162825.png)
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ImageWindow-red.svg?style=flat)](http://android-arsenal.com/details/1/1576)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageWindow">
+        <attr name="close_size" format="dimension"/>
+        <attr name="close_margin" format="dimension"/>
+        <attr name="close_color" format="color"/>
+        <attr name="corner_radius" format="dimension"/>
+        <attr name="image_margin" format="dimension"/>
+        <attr name="close_icon" format="reference"/>
+    </declare-styleable>
+</resources>
